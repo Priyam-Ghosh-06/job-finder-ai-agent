@@ -374,11 +374,6 @@ Configurable weights for different scoring factors to customize matching behavio
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -390,12 +385,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **FastAPI** for the excellent web framework
 - **pdfplumber** for robust PDF processing
 
----
 
-## 📞 Support
-
-For support, email support@jobfinder-ai.com or create an issue in the repository.
-
----
-
-**Built with ❤️ for the job search community**
